@@ -1,8 +1,0 @@
-{
-	"port": 5000,
-	"server": {
-		"baseDir": "./src"
-	},
-	"open": false,
-	"notify": false
-}
